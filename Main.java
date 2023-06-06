@@ -17,5 +17,6 @@ class Main {
     }
     
     System.out.println("Liczby są równe!");
+    
   }
 }
