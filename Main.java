@@ -15,6 +15,7 @@ class Main {
       liczba2 = rand.nextInt(6) + 1; 
       System.out.println("Pierwszy rzut: " + liczba1 + " Drugi rzut: " + liczba2);
     }
+
     
     System.out.println("Liczby są równe!");
     
